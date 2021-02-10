@@ -1,6 +1,7 @@
 <style type="text/css">
 
 .togglelm{
+	display:none;
 	width:85px;
 	height:450px;
 	position:absolute;

@@ -32,7 +32,7 @@ add_stylesheet('<link rel="stylesheet" href="'.G5_SHOP_SKIN_URL.'/style.css">', 
 
         <li class="sit_use_li">
             <button type="button" class="sit_use_li_title"><b><?php echo $is_num; ?>.</b> <?php echo $is_subject; ?>
-			<?if($_SERVER[REMOTE_ADDR] == '59.5.215.230'){?>
+			<?if($_SERVER['REMOTE_ADDR'] == '59.5.215.230'){?>
 				<?
 				preg_match_all('@http://.+(\.jpg|\.gif|\.png)@',$is_content,$matches); 
 				$image_url = $matches[0];

@@ -58,15 +58,13 @@ div.tabContainer {border:1px solid #ccc; background:#fff;}
 		</table>-->
 			<div id="tab1" class="tabContent">
 				<ul class="cate">
-					<li><a href="<?php echo G5_URL?>/sub1.php">생크림소개</a></li>
-					<li><a href="<?php echo G5_URL?>/sub2.php">프로그램</a></li>
-					<li><a href="<?php echo G5_URL?>/bbs/board.php?bo_table=teahcer">교육문의</a></li>
-					<li><a href="<?php echo G5_URL?>/bbs/write.php?bo_table=online">교육상담신청</a></li>
-					<li><a href="<?php echo G5_URL?>/bbs/write.php?bo_table=online2">교사지원</a></li>
-					<li><a href="<?php echo G5_URL?>/bbs/board.php?bo_table=gallery">갤러리</a></li>
-					<li><a href="<?php echo G5_URL?>/bbs/board.php?bo_table=notice">커뮤니티</a></li>
-					<li><a href="<?php echo G5_URL?>/shop/list.php?ca_id=20">수업신청</a></li>
-					<li><a href="<?php echo G5_URL?>/shop/list.php?ca_id=10">교재신청</a></li>
+				
+					<li><a href="">타로상담</a></li>
+					<li><a href="">사주상담</a></li>
+					<li><a href="">신점상담</a></li>
+					<li><a href="">운영안내</a></li>
+					<li><a href="">공지사항</a></li>
+					<li><a href="">오시는길</a></li>
 				</ul>
 			</div>
 			
@@ -245,12 +243,12 @@ div.tabContainer {border:1px solid #ccc; background:#fff;}
 		<div style="margin:5px 0 5px 0;">
 			<div>
 				<font size="5px;">
-					<img src="<?php echo G5_IMG_URL?>/call_btn2.png" width="23px;"><b style="color:#1e439a">1600-3070 </b>
+					<img src="<?php echo G5_IMG_URL?>/call_btn2.png" width="23px;"><b style="color:#1e439a">060-604-0303 </b>
 				</font>
 			</div>
 			<div>
 				<font color="#545454">
-					COPYRIGHTⓒ생크림방문미술<br>
+					COPYRIGHTⓒ힐링퓨처[사주타로feel]<br>
 					ALL RIGHT RESERVED.
 				</font>
 			</div>

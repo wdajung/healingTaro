@@ -58,7 +58,7 @@ transition: all 0.5s ease;}
 <div style="clear:both;"></div>
 
 
-
+<?/*
 
 <div style="padding:20px 40px 20px 40px; background:#f2f2f2;">
 	<div id="wrapper">
@@ -102,10 +102,10 @@ transition: all 0.5s ease;}
 </div>
 <div style="clear:both;"></div>
 
-
 <section>
 <div id="wrapper">
     <div id="container">
+    <?/* 
 		<div class="main_banner">
 			<table width="100%" style="margin:0 auto;" cellpadding="10">
 				<tr>
@@ -131,15 +131,21 @@ transition: all 0.5s ease;}
 			<?=latest("latest_gallery","gallery",8,24);?>
 		</div>
 		<div style="clear:both;"></div><br><br><br>
+*/?>
+
+<section>
 
 
-		<?php if($default['de_type3_list_use']) { ?>
+<div style="padding:40px; ">
+<div id="wrapper" class="mainlist">
+    <div id="container">
+    	<?php if($default['de_type3_list_use']) { ?>
 		<!-- 최신상품 시작 { -->
 		<section class="sct_wrap">
 			<header>
 				<div style="text-align:center">
-					<a href="<?php echo G5_SHOP_URL; ?>/listtype.php?type=3" ><p class="main_title"><span style="color:#1E439A; padding:10px; background:#fff;">&nbsp;NEW&nbsp;&nbsp;<span style="color:#444">BEST CATEGORY&nbsp;</span></span></p></a>
-					<p style="height:1px; background:#ddd;position:absolute; width:98%; margin:0 auto; top:4%; z-index:-1" ></p>
+					<!-- <a href="<?php echo G5_SHOP_URL; ?>/listtype.php?type=3" ><p class="main_title"><span style="color:#1E439A; padding:10px">&nbsp;NEW&nbsp;&nbsp;<span style="color:#444">BEST CATEGORY&nbsp;</span></span></p></a> 
+					<p style="height:1px; background:#ddd;position:absolute; width:98%; margin:0 auto; top:4%; z-index:-1" ></p>-->
 					<!--<a href="<?php echo G5_SHOP_URL; ?>/listtype.php?type=3" class="radius_btn" style=" color:#c9c9c9; margin-right:22px;">+ MORE</a>--> 
 				</div>
 				<!--
@@ -154,7 +160,7 @@ transition: all 0.5s ease;}
 					</tr>
 				</table>-->
 			</header>
-			<table width="100%" cellpadding="0" cellspacing="0" style="padding-top: 20px; ">
+			<table width="100%" cellpadding="0" cellspacing="0" style="padding-top: 20px; " class="">
 				<tr>
 					<!--
 					<td width="20%" valign="top"><img src="<?php echo G5_URL?>/img/main_new.jpg" width="100%"></td>
@@ -163,18 +169,25 @@ transition: all 0.5s ease;}
 						 <?php
 							//최신상품
 							$list = new item_list();
+							/*$list->set_img_size(300);*/
 							$list->set_type(3);
 							$list->set_list_mod(12);
-							$list->set_list_row(1);
+							$list->set_list_row(5);
 							$list->set_view('it_id', false);
 							$list->set_view('it_name', true);
 							$list->set_view('it_basic', true);
 							$list->set_view('it_cust_price', true);
-							$list->set_view('it_price', true);
+							$list->set_view('it_price', false);
 							$list->set_view('it_icon', true);
+							$list->set_view('it_origin', true);
+							$list->set_view('it_maker', true);
+							$list->set_view('it_model', true);
+							$list->set_view('it_brand', true);
 							$list->set_view('sns', true);
+							$list->set_view('it_star_score', true);
 							echo $list->run();
 						?>
+							
 					</td>
 				</tr>
 			</table>
@@ -280,6 +293,7 @@ transition: all 0.5s ease;}
 		<!-- } 추천상품 끝 -->
 		<?php } ?>
 	</div>
+</div>
 </div>
 </section>
 

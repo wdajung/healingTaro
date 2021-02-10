@@ -35,8 +35,16 @@ for ($i=1; $row=sql_fetch_array($result); $i++) {
     }
 
     if ($this->href) {
+    	if ($this->view_it_model && $row['it_model']) {
+    		echo "<div class=\"sct_model\">".stripslashes($row['it_model'])."</div>\n";
+    	}
+    	if ($this->view_it_brand && $row['it_brand']) {
+    		echo "<div class=\"sct_brand\">".stripslashes($row['it_brand'])."</div>\n";
+    	}
         echo "</a></div>\n";
     }
+    
+    
 
 	/*
     if ($this->view_it_icon) {
@@ -49,22 +57,35 @@ for ($i=1; $row=sql_fetch_array($result); $i++) {
     }
 
     if ($this->href) {
-        echo "<div class=\"sct_txt\"><a href=\"{$this->href}{$row['it_id']}\" class=\"sct_a\">\n";
+        echo "<div class=\"conts\"><div class=\"sct_txt\"><a href=\"{$this->href}{$row['it_id']}\" class=\"sct_a\">\n";
     }
 
-    if ($this->view_it_name) {
-        echo stripslashes($row['it_name'])."\n";
-    }
 
     if ($this->href) {
         echo "</a></div>\n";
     }
-	
 
     if ($this->view_it_basic && $row['it_basic']) {
-	        echo "<div class=\"sct_basic\">".stripslashes($row['it_basic'])."</div>\n";
+	        echo "<div class=\"sct_basic\">".stripslashes($row['it_basic'])."</div><i class='fas fa-phone-volume'></i>\n";
     }
 
+    if ($this->view_it_origin && $row['it_origin']) {
+            echo "<div class=\"sct_origin\">".stripslashes($row['it_origin'])."</div>\n";
+    }
+
+    
+    $sql_review = " select count(*) as cnt from `{$g5['g5_shop_item_use_table']}` where it_id = ".$row['it_id']." and is_confirm = '1' ";
+    $row_review = sql_fetch($sql_review);
+    $item_use_count = $row_review['cnt'];
+
+    echo "<span class='reviewCount'>".stripslashes($row['it_name'])." 상담후기 ".$item_use_count." 건</span>";
+    if ($this->view_it_star_score) {
+    	$star_score = get_star_image($row['it_id']);
+    	if ($star_score) {
+    		echo "<img src=\"".G5_SHOP_URL."/img/s_star".$star_score.".png\" width=\"100\">";
+    	}
+    }
+    
     if ($this->view_it_cust_price || $this->view_it_price) {
 
         echo "<div class=\"sct_cost\">\n";
@@ -77,7 +98,7 @@ for ($i=1; $row=sql_fetch_array($result); $i++) {
             echo display_price(get_price($row), $row['it_tel_inq'])."\n";
         }
 
-        echo "</div>\n";
+        echo "</div></div>\n";
 
     }
 
@@ -93,6 +114,12 @@ for ($i=1; $row=sql_fetch_array($result); $i++) {
         echo "</div>\n";
     }
 	*/
+    
+    echo "<div class='btm_call'><span class='num'>코인상담: 060-604-0303</span><span class='num2'><span class='txt'>전화연결 후</span>";
+	if ($this->view_it_maker && $row['it_maker']) {
+	            echo "<span class=\"sct_maker\">".stripslashes($row['it_maker'])."</span>\n";
+	    }
+	echo "</span></div>";	
 
     echo "</li>\n";
 }

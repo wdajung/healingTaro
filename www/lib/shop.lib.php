@@ -394,7 +394,7 @@ function get_it_image($it_id, $width, $height=0, $anchor=false, $img_id='', $img
 
     if(!$row['it_id'])
         return '';
-	
+    
     for($i=1;$i<=10; $i++) {
         $file = G5_DATA_PATH.'/item/'.$row['it_img'.$i];
         if(is_file($file) && $row['it_img'.$i]) {
@@ -410,16 +410,18 @@ function get_it_image($it_id, $width, $height=0, $anchor=false, $img_id='', $img
         }
     }
 
-	/*2017-02-15 : 2번째 상품 썸네일 얻기*/
-	$file2 = G5_DATA_PATH.'/item/'.$row['it_img2'];
-	if(is_file($file2) && $row['it_img2']){
-		$size2 = @getimagesize($file2);
-		if($size[2] < 1 || $size2[2] > 3)
-		continue;
-		$filename2 = basename($file2);
-		$filepath2 = dirname($file2);
-	}
-	/*2017-02-15 : 2번째 상품 썸네일 얻기*/
+    for($i=1;$i<=10; $i++) {
+        /*2017-02-15 : 2번째 상품 썸네일 얻기*/
+        $file2 = G5_DATA_PATH.'/item/'.$row['it_img2'];
+        if(is_file($file2) && $row['it_img2']){
+            $size2 = @getimagesize($file2);
+            if($size[2] < 1 || $size2[2] > 3)
+            continue;
+            $filename2 = basename($file2);
+            $filepath2 = dirname($file2);
+        }
+    }
+    /*2017-02-15 : 2번째 상품 썸네일 얻기*/
 
     if($img_width && !$height) {
         $height = round(($width * $img_height) / $img_width);
@@ -429,24 +431,24 @@ function get_it_image($it_id, $width, $height=0, $anchor=false, $img_id='', $img
         //thumbnail($filename, $source_path, $target_path, $thumb_width, $thumb_height, $is_create, $is_crop=false, $crop_mode='center', $is_sharpen=true, $um_value='80/0.5/3')
         $thumb = thumbnail($filename, $filepath, $filepath, $width, $height, false, true, 'center', false, $um_value='80/0.5/3');
     }
-	
-	/*2017-02-15 : 2번쨰 상품썸네일 생성*/
-	if($filename2){
-		$thumb2 = thumbnail($filename2, $filepath2, $filepath2, $width, $height, false, true, 'center', false, $um_value='80/0.5/3');
+    
+    /*2017-02-15 : 2번쨰 상품썸네일 생성*/
+    if($filename2){
+        $thumb2 = thumbnail($filename2, $filepath2, $filepath2, $width, $height, false, true, 'center', false, $um_value='80/0.5/3');
 
-	}
-	/*2017-02-15 : 2번쨰 상품썸네일 생성*/
+    }
+    /*2017-02-15 : 2번쨰 상품썸네일 생성*/
 
     if($thumb2) {
-		$file_url = str_replace(G5_PATH, G5_URL, $filepath.'/'.$thumb);
-		$file_url2 = str_replace(G5_PATH, G5_URL, $filepath.'/'.$thumb2);
+        $file_url = str_replace(G5_PATH, G5_URL, $filepath.'/'.$thumb);
+        $file_url2 = str_replace(G5_PATH, G5_URL, $filepath.'/'.$thumb2);
         $img = '<img onmouseout=off_element(this,"'.$file_url.'") onmouseover=on_element(this,"'.$file_url2.'") src="'.$file_url.'" width="'.$width.'" height="'.$height.'" alt="'.$img_alt.'"';
         
     }else if($thumb){
-		$file_url = str_replace(G5_PATH, G5_URL, $filepath.'/'.$thumb);
+        $file_url = str_replace(G5_PATH, G5_URL, $filepath.'/'.$thumb);
         $img = '<img src="'.$file_url.'" width="'.$width.'" height="'.$height.'" alt="'.$img_alt.'"';
 
-	}else {
+    }else {
         $img = '<img src="'.G5_SHOP_URL.'/img/no_image.gif" width="'.$width.'"';
         if($height)
             $img .= ' height="'.$height.'"';
@@ -622,17 +624,17 @@ function get_price($it)
     if ($it['it_tel_inq']) return '전화문의';
 
     $price = $it['it_price'];
-		/*여기여기*/
-		if($member[mb_level] == '3'){
-			$price = (int)($price * 0.97);//3% prime 레벨3고객
-		}else if($member[mb_level] == '4'){
-			$price = (int)($price * 0.95);//5% passion 레벨4고객
-		}else if($member[mb_level] == '5'){
-			$price = (int)($price * 0.93);//7% vip 레벨5고객
-		}else if($member[mb_level] == '6'){
-			$price = (int)($price * 0.90);//10% vvip 레벨6고객
-		}
-		/*여기여기*/
+        /*여기여기*/
+        if($member['mb_level'] == '3'){
+            $price = (int)($price * 0.97);//3% prime 레벨3고객
+        }else if($member['mb_level'] == '4'){
+            $price = (int)($price * 0.95);//5% passion 레벨4고객
+        }else if($member['mb_level'] == '5'){
+            $price = (int)($price * 0.93);//7% vip 레벨5고객
+        }else if($member['mb_level'] == '6'){
+            $price = (int)($price * 0.90);//10% vvip 레벨6고객
+        }
+        /*여기여기*/
     return (int)$price;
 }
 

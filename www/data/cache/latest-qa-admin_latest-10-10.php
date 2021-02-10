@@ -19,7 +19,7 @@ $list=array (
     'wr_link2' => '',
     'wr_link1_hit' => '0',
     'wr_link2_hit' => '0',
-    'wr_hit' => '16',
+    'wr_hit' => '22',
     'wr_good' => '0',
     'wr_nogood' => '0',
     'mb_id' => 'fibaterran',
@@ -54,9 +54,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://cream-art.wdw.kr/bbs/board.php?bo_table=qa&amp;sca=',
-    'href' => 'http://cream-art.wdw.kr/bbs/board.php?bo_table=qa&amp;wr_id=1sst=&amp;sod=&amp;sfl=&amp;stx=&amp;page=',
-    'comment_href' => 'http://cream-art.wdw.kr/bbs/board.php?bo_table=qa&amp;wr_id=1sst=&amp;sod=&amp;sfl=&amp;stx=&amp;page=',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=qa&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=qa&amp;wr_id=1sst=&amp;sod=&amp;sfl=&amp;stx=&amp;page=',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=qa&amp;wr_id=1sst=&amp;sod=&amp;sfl=&amp;stx=&amp;page=',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -67,8 +67,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://cream-art.wdw.kr/bbs/link.php?bo_table=qa&amp;wr_id=1&amp;no=1sst=&amp;sod=&amp;sfl=&amp;stx=&amp;page=',
-      2 => 'http://cream-art.wdw.kr/bbs/link.php?bo_table=qa&amp;wr_id=1&amp;no=2sst=&amp;sod=&amp;sfl=&amp;stx=&amp;page=',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=qa&amp;wr_id=1&amp;no=1sst=&amp;sod=&amp;sfl=&amp;stx=&amp;page=',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=qa&amp;wr_id=1&amp;no=2sst=&amp;sod=&amp;sfl=&amp;stx=&amp;page=',
     ),
     'link_hit' => 
     array (

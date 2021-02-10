@@ -92,7 +92,7 @@ add_stylesheet('<link rel="stylesheet" href="'.G5_SHOP_CSS_URL.'/style.css">', 0
 
 
 <!-- 사용후기 시작 { -->
-<section id="sit_use" style="display:none;">
+<section id="sit_use" >
     <h2>사용후기</h2>
     <?php echo pg_anchor('use'); ?>
 

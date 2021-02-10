@@ -37,14 +37,17 @@ add_stylesheet('<link rel="stylesheet" href="'.$popular_skin_url.'/style.css">',
 </ul>-->
 <ul id="ticker_01" class="ticker" style="float:right;">
 	<?$j=1;?>
-	<?php for ($i=0; $i<count($list); $i++) {  ?>
-		<li>
-			<a href="<?php echo G5_BBS_URL ?>/search.php?sfl=wr_subject&amp;sop=and&amp;stx=<?php echo urlencode($list[$i]['pp_word']) ?>">
-				<span style="width:30px; height:30px; border-radius:5px; padding:3px; color:#222; background:#efefef"><?=$j;?></span>&nbsp;<?php echo get_text($list[$i]['pp_word']); ?>
-			</a>
-		</li>
-	<?$j++;?>
-	<?php }  ?>
+	<?php 
+		if( isset($list) && is_array($list) ){
+			for ($i=0; $i<count($list); $i++) {  ?>
+			<li>
+				<a href="<?php echo G5_BBS_URL ?>/search.php?sfl=wr_subject&amp;sop=and&amp;stx=<?php echo urlencode($list[$i]['pp_word']) ?>">
+					<span style="width:30px; height:30px; border-radius:5px; padding:3px; color:#222; background:#efefef"><?=$j;?></span>&nbsp;<?php echo get_text($list[$i]['pp_word']); ?>
+				</a>
+			</li>
+		<?$j++;?>
+	<?php }
+	}  ?>
 </ul>
 <script>
  function tick(){

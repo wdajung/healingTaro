@@ -1,6 +1,8 @@
 @charset "utf-8";
 /* SIR 지운아빠 */
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
 /* aside:gnb */
 #gnb {margin:0 0 5px;padding:0 0 10px;border:1px solid #d5d5d5;background:#f2f5f9}
 #gnb h2 {position:absolute;font-size:0;line-height:0;overflow:hidden}
@@ -136,6 +138,8 @@
 .sct_10 .sct_cost {display:block;margin:0 0 10px; font-weight:bold; color:#cf3031; position:absolute; bottom:0px;}
 .sct_10 .sct_cost strike {display:block;margin:0 0 5px;color:#999;font-weight:normal}
 .sct_10 .sct_sns {}
+
+
 
 /* 상품 목록 스킨 20 */
 .sct_20 .sct_li {position:relative;float:left;margin:0 25px 15px 0}
@@ -566,3 +570,42 @@
 .couponzone_list ul li .coupon_btn .disabled {background: #ddd;border:1px;color:#999;border-color:#ddd}
 .couponzone_list .no_coupon{padding: 100px 0;text-align:center;color:#999}
 #point_coupon li{height:230px;}
+
+
+
+/*20210210*/
+#main_bn .banner{position:absolute;bottom:0;color:#fff;width:100%;height:100px;background:#d4d4d49c}
+#main_bn .banner i.fas{position:relative;font-size:4.6em;display:inline-block;margin-right:25px;top:-10px}
+#main_bn .banner .txt{display:inline-block;text-align:left;font-size:1.1em;line-height:1.4}
+#main_bn .banner .txt .tit{font-size:2em;font-weight:600}
+#main_bn .banner>div{padding:9px 0}
+.top_info{display:none}
+.col-lg-2{width:12%!important}
+#hd_sch{display:none}
+#wrapper.mainlist,#wrapper.mainlist #container{width:calc(100vw - 100px);max-width:1500px}
+.mainlist .sct_10 .sct_li {margin: 0 15px 15px 0;width: calc(25% - 12px) !important;height: auto;padding: 0;box-sizing: border-box;-webkit-transition: all 0.3s;-o-transition: all 0.3s;transition: all 0.3s}
+.mainlist .sct_10 .sct_li:nth-child(4n) {margin-right: 0;}
+.mainlist .sct_10 .sct_li .sct_img img, .mainlist .sct_10 .sct_li .sct_img a {width: 100%;    height: auto;}
+.mainlist .sct_10 .sct_li:nth-child(4n+1) { clear: both;}
+.mainlist .sct_basic {display: inline-block;margin-bottom: 4px;font-size:1.7em;font-family: 'NanumSquareRound',sans-serif;font-weight: 600;}
+.mainlist .sct_basic .callNum {color:#ff717b}
+.mainlist .conts{padding:15px}
+.mainlist .conts .sct_txt{display:none}
+.mainlist {font-family:NanumSquareRound,sans-serif}
+.mainlist .sct_origin{font-size:1.2em;letter-spacing:-1.5px;border-bottom: 1px solid #ddd;padding-bottom: 10px;margin-bottom: 10px;}
+.mainlist .sct_img .sct_model{position:absolute;top:10px;left:10px}
+.mainlist .sct_img .sct_model span.mainType{background:#672796;color:#fff;text-align:center;font-size:1.5em}
+.mainlist .sct_img .sct_model span{width:75px;display:block;padding:6px 5px 3px}
+.mainlist .sct_img .sct_model span.hash{background:#fff;margin-top:4px;padding:1px 0 2px 8px;border-radius:10px;border:1px solid #c1c1c1}
+.mainlist .sct_img .sct_brand{position:absolute;top:10px;right:10px;background:#4aa895;color:#fff;width:50px;height:50px;font-size:1.2em;border-radius:100px;text-align:center;line-height:3.6;margin:auto}
+.mainlist .sct_10 .sct_li:hover {
+    webkit-box-shadow: 1px 1px 33px -6px rgb(0 0 0 / 75%);
+    -moz-box-shadow: 1px 1px 33px -6px rgba(0, 0, 0, 0.75);
+    box-shadow: 1px 1px 33px -6px rgb(0 0 0 / 75%);
+}
+.mainlist i.fas.fa-phone-volume {font-size: 1.8em;padding-left: 10px; color: #ff717b;}
+.mainlist span.reviewCount {font-size: 1.2em; padding-right: 10px;}
+.mainlist .btm_call{background:#f7f7f7;padding:11px 16px;border-top:1px solid #ddd;position:relative;font-size:1.1em}
+.mainlist .btm_call .num2{float:right;display:flex}
+.mainlist .btm_call .num2 .sct_maker{color:#ff717b;font-size:1.7em;margin-top:-4.5px}
+.mainlist .btm_call .num2 .txt{padding-right:5px}

@@ -177,21 +177,11 @@ wcs_do();
 <div class="container">
 	<div class="main_menu" style="border-top:1px solid #eee; border-bottom:1px solid #eee;">
 		<ul>
-			<li><a href="<?php echo G5_URL?>/sub1.php">방문미술</a></li>
-			<li><a href="<?php echo G5_URL?>/sub2.php">프로그램</a></li>
-			<li><a href="<?php echo G5_URL?>/bbs/board.php?bo_table=teahcer">교육문의</a></li>
-			
-			<?if($is_admin){?>
-			<li><a href="<?php echo G5_URL?>/bbs/board.php?bo_table=online">교육상담</a></li>
-			<?}else{?>
-			<li><a href="<?php echo G5_URL?>/bbs/write.php?bo_table=online">교육상담</a></li>
-			<?}?>
-
-			<?if($is_admin){?>
-			<li><a href="<?php echo G5_URL?>/bbs/board.php?bo_table=online2">교사지원</a></li>
-			<?}else{?>
-			<li><a href="<?php echo G5_URL?>/bbs/write.php?bo_table=online2">교사지원</a></li>
-			<?}?>
+			<li><a href="">타로상담</a>
+			<li><a href="">사주상담</a>
+			<li><a href="">신점상담</a>
+			<li><a href="">운영안내</a>
+			<li><a href="">오시는길</a>
 		</ul>
 	</div>
 </div>

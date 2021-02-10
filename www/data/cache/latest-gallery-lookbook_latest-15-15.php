@@ -54,9 +54,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=121',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=121',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=121',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=121',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -67,8 +67,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=121&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=121&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=121&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=121&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -79,7 +79,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
   ),
   1 => 
   array (
@@ -133,9 +133,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=120',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=120',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=120',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=120',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -146,8 +146,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=120&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=120&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=120&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=120&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -158,7 +158,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
   ),
   2 => 
   array (
@@ -212,9 +212,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=119',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=119',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=119',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=119',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -225,8 +225,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=119&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=119&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=119&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=119&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -237,7 +237,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
   ),
   3 => 
   array (
@@ -291,9 +291,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=118',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=118',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=118',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=118',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -304,8 +304,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=118&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=118&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=118&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=118&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -316,7 +316,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
   ),
   4 => 
   array (
@@ -370,9 +370,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=117',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=117',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=117',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=117',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -383,8 +383,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=117&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=117&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=117&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=117&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -395,7 +395,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
   ),
   5 => 
   array (
@@ -449,9 +449,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=116',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=116',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=116',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=116',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -462,8 +462,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=116&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=116&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=116&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=116&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -474,7 +474,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
   ),
   6 => 
   array (
@@ -528,9 +528,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=115',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=115',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=115',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=115',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -541,8 +541,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=115&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=115&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=115&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=115&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -553,7 +553,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
   ),
   7 => 
   array (
@@ -607,9 +607,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=114',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=114',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=114',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=114',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -620,8 +620,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=114&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=114&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=114&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=114&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -632,7 +632,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/skin/latest/lookbook_latest/img/icon_file.gif" alt="첨부파일">',
   ),
   8 => 
   array (
@@ -646,7 +646,7 @@ $list=array (
     'ca_name' => '',
     'wr_option' => 'html1',
     'wr_subject' => '생크림방문뉴스',
-    'wr_content' => '<p><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706113_8419.jpg" title="72658ddcf55960e88a72760f152835c8_1580706113_8419.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706114_0956.jpg" title="72658ddcf55960e88a72760f152835c8_1580706114_0956.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706114_4009.jpg" title="72658ddcf55960e88a72760f152835c8_1580706114_4009.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706114_6658.jpg" title="72658ddcf55960e88a72760f152835c8_1580706114_6658.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706114_9978.jpg" title="72658ddcf55960e88a72760f152835c8_1580706114_9978.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706115_2935.jpg" title="72658ddcf55960e88a72760f152835c8_1580706115_2935.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706115_4828.jpg" title="72658ddcf55960e88a72760f152835c8_1580706115_4828.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706115_6097.jpg" title="72658ddcf55960e88a72760f152835c8_1580706115_6097.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706115_754.jpg" title="72658ddcf55960e88a72760f152835c8_1580706115_754.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706115_8891.jpg" title="72658ddcf55960e88a72760f152835c8_1580706115_8891.jpg"><br style="clear:both;">&nbsp;</p>',
+    'wr_content' => '<p><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706113_8419.jpg" title="72658ddcf55960e88a72760f152835c8_1580706113_8419.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706114_0956.jpg" title="72658ddcf55960e88a72760f152835c8_1580706114_0956.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706114_4009.jpg" title="72658ddcf55960e88a72760f152835c8_1580706114_4009.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706114_6658.jpg" title="72658ddcf55960e88a72760f152835c8_1580706114_6658.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706114_9978.jpg" title="72658ddcf55960e88a72760f152835c8_1580706114_9978.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706115_2935.jpg" title="72658ddcf55960e88a72760f152835c8_1580706115_2935.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706115_4828.jpg" title="72658ddcf55960e88a72760f152835c8_1580706115_4828.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706115_6097.jpg" title="72658ddcf55960e88a72760f152835c8_1580706115_6097.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706115_754.jpg" title="72658ddcf55960e88a72760f152835c8_1580706115_754.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580706115_8891.jpg" title="72658ddcf55960e88a72760f152835c8_1580706115_8891.jpg"><br style="clear:both;">&nbsp;</p>',
     'wr_link1' => '',
     'wr_link2' => '',
     'wr_link1_hit' => '0',
@@ -686,9 +686,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=113',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=113',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=113',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=113',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -699,8 +699,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=113&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=113&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=113&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=113&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -724,7 +724,7 @@ $list=array (
     'ca_name' => '',
     'wr_option' => 'html1',
     'wr_subject' => '생크림방문뉴스',
-    'wr_content' => '<p><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705891_8967.jpg" title="72658ddcf55960e88a72760f152835c8_1580705891_8967.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705892_0468.jpg" title="72658ddcf55960e88a72760f152835c8_1580705892_0468.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705892_1845.jpg" title="72658ddcf55960e88a72760f152835c8_1580705892_1845.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705892_299.jpg" title="72658ddcf55960e88a72760f152835c8_1580705892_299.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705892_4265.jpg" title="72658ddcf55960e88a72760f152835c8_1580705892_4265.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705892_5614.jpg" title="72658ddcf55960e88a72760f152835c8_1580705892_5614.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705892_6993.jpg" title="72658ddcf55960e88a72760f152835c8_1580705892_6993.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705892_8145.jpg" title="72658ddcf55960e88a72760f152835c8_1580705892_8145.jpg"><br style="clear:both;">&nbsp;</p>',
+    'wr_content' => '<p><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705891_8967.jpg" title="72658ddcf55960e88a72760f152835c8_1580705891_8967.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705892_0468.jpg" title="72658ddcf55960e88a72760f152835c8_1580705892_0468.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705892_1845.jpg" title="72658ddcf55960e88a72760f152835c8_1580705892_1845.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705892_299.jpg" title="72658ddcf55960e88a72760f152835c8_1580705892_299.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705892_4265.jpg" title="72658ddcf55960e88a72760f152835c8_1580705892_4265.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705892_5614.jpg" title="72658ddcf55960e88a72760f152835c8_1580705892_5614.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705892_6993.jpg" title="72658ddcf55960e88a72760f152835c8_1580705892_6993.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705892_8145.jpg" title="72658ddcf55960e88a72760f152835c8_1580705892_8145.jpg"><br style="clear:both;">&nbsp;</p>',
     'wr_link1' => '',
     'wr_link2' => '',
     'wr_link1_hit' => '0',
@@ -764,9 +764,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=112',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=112',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=112',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=112',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -777,8 +777,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=112&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=112&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=112&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=112&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -802,7 +802,7 @@ $list=array (
     'ca_name' => '',
     'wr_option' => 'html1',
     'wr_subject' => '생크림방문뉴스',
-    'wr_content' => '<p><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705743_1376.jpg" title="72658ddcf55960e88a72760f152835c8_1580705743_1376.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705743_3156.jpg" title="72658ddcf55960e88a72760f152835c8_1580705743_3156.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705743_4333.jpg" title="72658ddcf55960e88a72760f152835c8_1580705743_4333.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705743_583.jpg" title="72658ddcf55960e88a72760f152835c8_1580705743_583.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705743_7137.jpg" title="72658ddcf55960e88a72760f152835c8_1580705743_7137.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705743_825.jpg" title="72658ddcf55960e88a72760f152835c8_1580705743_825.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705743_9671.jpg" title="72658ddcf55960e88a72760f152835c8_1580705743_9671.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705744_0764.jpg" title="72658ddcf55960e88a72760f152835c8_1580705744_0764.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705744_2063.jpg" title="72658ddcf55960e88a72760f152835c8_1580705744_2063.jpg"><br style="clear:both;"><img src="http://cream-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705744_3423.jpg" title="72658ddcf55960e88a72760f152835c8_1580705744_3423.jpg"><br style="clear:both;">&nbsp;</p>',
+    'wr_content' => '<p><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705743_1376.jpg" title="72658ddcf55960e88a72760f152835c8_1580705743_1376.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705743_3156.jpg" title="72658ddcf55960e88a72760f152835c8_1580705743_3156.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705743_4333.jpg" title="72658ddcf55960e88a72760f152835c8_1580705743_4333.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705743_583.jpg" title="72658ddcf55960e88a72760f152835c8_1580705743_583.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705743_7137.jpg" title="72658ddcf55960e88a72760f152835c8_1580705743_7137.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705743_825.jpg" title="72658ddcf55960e88a72760f152835c8_1580705743_825.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705743_9671.jpg" title="72658ddcf55960e88a72760f152835c8_1580705743_9671.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705744_0764.jpg" title="72658ddcf55960e88a72760f152835c8_1580705744_0764.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705744_2063.jpg" title="72658ddcf55960e88a72760f152835c8_1580705744_2063.jpg"><br style="clear:both;"><img src="http://healingtaro-art.wdw.kr/data/editor/2002/72658ddcf55960e88a72760f152835c8_1580705744_3423.jpg" title="72658ddcf55960e88a72760f152835c8_1580705744_3423.jpg"><br style="clear:both;">&nbsp;</p>',
     'wr_link1' => '',
     'wr_link2' => '',
     'wr_link1_hit' => '0',
@@ -842,9 +842,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=111',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=111',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=111',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=111',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -855,8 +855,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=111&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=111&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=111&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=111&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -880,7 +880,7 @@ $list=array (
     'ca_name' => '',
     'wr_option' => 'html1',
     'wr_subject' => '생크림방문미술_미술관',
-    'wr_content' => '<p><img src="http://cream-art.wdw.kr/data/editor/1912/64eca52d62cebe5629ad544e9548224a_1576743088_2263.jpg" title="64eca52d62cebe5629ad544e9548224a_1576743088_2263.jpg"><br style="clear:both;">&nbsp;</p><p><img src="http://cream-art.wdw.kr/data/editor/1912/64eca52d62cebe5629ad544e9548224a_1576743089_1557.jpg" title="64eca52d62cebe5629ad544e9548224a_1576743089_1557.jpg"><br style="clear:both;">&nbsp;</p><p><img src="http://cream-art.wdw.kr/data/editor/1912/64eca52d62cebe5629ad544e9548224a_1576743090_0677.jpg" title="64eca52d62cebe5629ad544e9548224a_1576743090_0677.jpg"><br style="clear:both;">&nbsp;</p><p><img src="http://cream-art.wdw.kr/data/editor/1912/64eca52d62cebe5629ad544e9548224a_1576743091_1261.jpg" title="64eca52d62cebe5629ad544e9548224a_1576743091_1261.jpg"><br style="clear:both;">&nbsp;</p>',
+    'wr_content' => '<p><img src="http://healingtaro-art.wdw.kr/data/editor/1912/64eca52d62cebe5629ad544e9548224a_1576743088_2263.jpg" title="64eca52d62cebe5629ad544e9548224a_1576743088_2263.jpg"><br style="clear:both;">&nbsp;</p><p><img src="http://healingtaro-art.wdw.kr/data/editor/1912/64eca52d62cebe5629ad544e9548224a_1576743089_1557.jpg" title="64eca52d62cebe5629ad544e9548224a_1576743089_1557.jpg"><br style="clear:both;">&nbsp;</p><p><img src="http://healingtaro-art.wdw.kr/data/editor/1912/64eca52d62cebe5629ad544e9548224a_1576743090_0677.jpg" title="64eca52d62cebe5629ad544e9548224a_1576743090_0677.jpg"><br style="clear:both;">&nbsp;</p><p><img src="http://healingtaro-art.wdw.kr/data/editor/1912/64eca52d62cebe5629ad544e9548224a_1576743091_1261.jpg" title="64eca52d62cebe5629ad544e9548224a_1576743091_1261.jpg"><br style="clear:both;">&nbsp;</p>',
     'wr_link1' => '',
     'wr_link2' => '',
     'wr_link1_hit' => '0',
@@ -920,9 +920,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=110',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=110',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=110',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=110',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -933,8 +933,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=110&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=110&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=110&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=110&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -958,7 +958,7 @@ $list=array (
     'ca_name' => '',
     'wr_option' => 'html1',
     'wr_subject' => '생크림방문미술_타지마할',
-    'wr_content' => '<p><img src="http://cream-art.wdw.kr/data/editor/1912/64eca52d62cebe5629ad544e9548224a_1576742847_8938.JPG" title="64eca52d62cebe5629ad544e9548224a_1576742847_8938.JPG"><br style="clear:both;">&nbsp;</p>',
+    'wr_content' => '<p><img src="http://healingtaro-art.wdw.kr/data/editor/1912/64eca52d62cebe5629ad544e9548224a_1576742847_8938.JPG" title="64eca52d62cebe5629ad544e9548224a_1576742847_8938.JPG"><br style="clear:both;">&nbsp;</p>',
     'wr_link1' => '',
     'wr_link2' => '',
     'wr_link1_hit' => '0',
@@ -998,9 +998,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=109',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=109',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=109',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=109',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -1011,8 +1011,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=109&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=109&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=109&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=109&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -1036,7 +1036,7 @@ $list=array (
     'ca_name' => '',
     'wr_option' => 'html1',
     'wr_subject' => '생크림방문미술',
-    'wr_content' => '<p><img src="http://cream-art.wdw.kr/data/editor/1912/64eca52d62cebe5629ad544e9548224a_1576742831_1222.JPG" title="64eca52d62cebe5629ad544e9548224a_1576742831_1222.JPG"><br style="clear:both;">&nbsp;</p>',
+    'wr_content' => '<p><img src="http://healingtaro-art.wdw.kr/data/editor/1912/64eca52d62cebe5629ad544e9548224a_1576742831_1222.JPG" title="64eca52d62cebe5629ad544e9548224a_1576742831_1222.JPG"><br style="clear:both;">&nbsp;</p>',
     'wr_link1' => '',
     'wr_link2' => '',
     'wr_link1_hit' => '0',
@@ -1076,9 +1076,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=108',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=108',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=108',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=108',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -1089,8 +1089,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=108&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=108&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=108&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=108&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -1114,7 +1114,7 @@ $list=array (
     'ca_name' => '',
     'wr_option' => 'html1',
     'wr_subject' => '생크림방문미술_세종대왕',
-    'wr_content' => '<p><img src="http://cream-art.wdw.kr/data/editor/1912/64eca52d62cebe5629ad544e9548224a_1576742826_2483.JPG" title="64eca52d62cebe5629ad544e9548224a_1576742826_2483.JPG"><br style="clear:both;">&nbsp;</p>',
+    'wr_content' => '<p><img src="http://healingtaro-art.wdw.kr/data/editor/1912/64eca52d62cebe5629ad544e9548224a_1576742826_2483.JPG" title="64eca52d62cebe5629ad544e9548224a_1576742826_2483.JPG"><br style="clear:both;">&nbsp;</p>',
     'wr_link1' => '',
     'wr_link2' => '',
     'wr_link1_hit' => '0',
@@ -1154,9 +1154,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=107',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=107',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=107',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=107',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -1167,8 +1167,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=107&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=107&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=107&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=107&amp;no=2',
     ),
     'link_hit' => 
     array (

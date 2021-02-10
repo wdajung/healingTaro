@@ -66,7 +66,19 @@ for ($i=0; $row=sql_fetch_array($result); $i++)
 
 if ($i > 0) {
     echo '</div>'.PHP_EOL;
-    echo '</div>'.PHP_EOL;
+  /* echo '<div class="banner">
+			<div><i class="fas fa-mobile-alt"></i>
+				<p class="txt"><span class="tit">이용안내</span><br>
+				060-604-0303 전화연결 후 비지정상담 1번과 지정상담 2번을 선택,<br>
+	    		지정상담 2번을 선택하신 분은 상담사 지정번호를 입력하면 상담선생님과 연결됩니다.</p>
+			</div>
+		<div><i class="fas fa-mobile-alt"></i>
+				<p class="txt"><span class="tit">이용안내22</span><br>
+				060-604-0303 전화연결 후 비지정상담 1번과 지정상담 2번을 선택,<br>
+	    		지정상담 2번을 선택하신 분은 상담사 지정번호를 입력하면 상담선생님과 연결됩니다.</p>
+			</div>
+		</div>'.PHP_EOL;  */
+    echo '</div>'.PHP_EOL; 
 ?>
 
 <script>

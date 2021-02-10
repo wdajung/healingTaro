@@ -66,9 +66,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=notice&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=notice&amp;wr_id=17',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=notice&amp;wr_id=17',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=notice&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=notice&amp;wr_id=17',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=notice&amp;wr_id=17',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -79,8 +79,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=notice&amp;wr_id=17&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=notice&amp;wr_id=17&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=notice&amp;wr_id=17&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=notice&amp;wr_id=17&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -91,7 +91,7 @@ $list=array (
     array (
       'count' => '4',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/skin/latest/notice_latest/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/skin/latest/notice_latest/img/icon_file.gif" alt="첨부파일">',
   ),
   1 => 
   array (
@@ -126,7 +126,7 @@ $list=array (
     'wr_link2' => '',
     'wr_link1_hit' => '0',
     'wr_link2_hit' => '0',
-    'wr_hit' => '58',
+    'wr_hit' => '59',
     'wr_good' => '0',
     'wr_nogood' => '0',
     'mb_id' => 'admin',
@@ -161,9 +161,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=notice&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=notice&amp;wr_id=16',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=notice&amp;wr_id=16',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=notice&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=notice&amp;wr_id=16',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=notice&amp;wr_id=16',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -174,8 +174,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=notice&amp;wr_id=16&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=notice&amp;wr_id=16&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=notice&amp;wr_id=16&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=notice&amp;wr_id=16&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -186,7 +186,7 @@ $list=array (
     array (
       'count' => '4',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/skin/latest/notice_latest/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/skin/latest/notice_latest/img/icon_file.gif" alt="첨부파일">',
   ),
   2 => 
   array (
@@ -266,9 +266,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=notice&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=notice&amp;wr_id=15',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=notice&amp;wr_id=15',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=notice&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=notice&amp;wr_id=15',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=notice&amp;wr_id=15',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -279,8 +279,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=notice&amp;wr_id=15&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=notice&amp;wr_id=15&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=notice&amp;wr_id=15&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=notice&amp;wr_id=15&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -324,9 +324,9 @@ https://youtu.be/TUNS6xCsLmY
 생크림미술송 잘 간직할께^^~~~~~♡',
     'wr_link1' => 'https://www.youtube.com/watch?v=TUNS6xCsLmY&feature=youtu.be',
     'wr_link2' => '',
-    'wr_link1_hit' => '6',
+    'wr_link1_hit' => '7',
     'wr_link2_hit' => '0',
-    'wr_hit' => '45',
+    'wr_hit' => '46',
     'wr_good' => '0',
     'wr_nogood' => '0',
     'mb_id' => 'admin',
@@ -360,10 +360,10 @@ https://youtu.be/TUNS6xCsLmY
     'name' => '<span class="sv_member">최고관리자</span>',
     'reply' => 0,
     'icon_reply' => '',
-    'icon_link' => '<img src="http://www.cream-art.wdw.kr/theme/basic/skin/latest/notice_latest/img/icon_link.gif" alt="관련링크">',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=notice&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=notice&amp;wr_id=14',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=notice&amp;wr_id=14',
+    'icon_link' => '<img src="http://localhost:88/theme/basic/skin/latest/notice_latest/img/icon_link.gif" alt="관련링크">',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=notice&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=notice&amp;wr_id=14',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=notice&amp;wr_id=14',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -374,12 +374,12 @@ https://youtu.be/TUNS6xCsLmY
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=notice&amp;wr_id=14&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=notice&amp;wr_id=14&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=notice&amp;wr_id=14&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=notice&amp;wr_id=14&amp;no=2',
     ),
     'link_hit' => 
     array (
-      1 => 6,
+      1 => 7,
       2 => 0,
     ),
     'file' => 

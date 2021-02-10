@@ -14,12 +14,7 @@ $admin = get_admin("super");
 			<td align="center" width="25%"><a href="<?php echo G5_SHOP_URL?>/orderinquiry.php"><img src="<?php echo G5_IMG_URL?>/m_quick_03.png" width="100%"></a></td>
 			<td align="center" width="25%"><a href="<?php echo G5_BBS_URL?>/board.php?bo_table=qa&sca=방문예약"><img src="<?php echo G5_IMG_URL?>/m_quick_04.png" width="100%"></a></td>
 		</tr>-->
-		<tr>
-			<td align="center" width="25%"><a href="<?php echo G5_BBS_URL?>/board.php?bo_table=qa"><img src="<?php echo G5_IMG_URL?>/m_quick_05.png" width="100%"></a></td>
-			<td align="center" width="25%"><a href="<?php echo G5_BBS_URL?>/board.php?bo_table=review"><img src="<?php echo G5_IMG_URL?>/m_quick_06.png" width="100%"></a></td>
-			<td align="center" width="25%"><a href="<?php echo G5_BBS_URL?>/board.php?bo_table=event"><img src="<?php echo G5_IMG_URL?>/m_quick_07.png" width="100%"></a></td>
-			<td align="center" width="25%"><a href="<?php echo G5_URL?>/bbs/board.php?bo_table=notice"><img src="<?php echo G5_IMG_URL?>/m_quick_08.png" width="100%"></a></td>
-		</tr>
+
 	</table>
 </div>
 </div><!-- container End -->

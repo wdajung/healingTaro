@@ -98,17 +98,15 @@ function off_element(t_val,e_val){//mouseout 이미지off
 <div id="ft" style="font-family: 'NanumSquareRound',sans-serif; margin-top:60px;">
 	 <div class="ft_wr">
         <ul id="ft_link">
-            <!--<li><a href="<?php echo G5_BBS_URL; ?>/content.php?co_id=company"><b>ABOUT</b></a></li>-->
-			<li><a href="<?php echo G5_THEME_SHOP_URL?>/sub1.php"><b>ABOUT</b></a></li>
-            <li><a href="<?php echo G5_BBS_URL; ?>/content.php?co_id=provision"><b>AGREEMENT</b></a></li>
-            <li><a href="<?php echo G5_BBS_URL; ?>/content.php?co_id=privacy"><b>PRIVACY POLICY</b></a></li>
-            <li><a href="<?php echo G5_BBS_URL; ?>/faq.php"><b>CUSTOMER CENTER</b></a></li>
+			<li><a href="javascript:void(0)"><b>ABOUT</b></a></li>
+            <li><a href="javascript:void(0)"><b>AGREEMENT</b></a></li>
+            <li><a href="javascript:void(0)"><b>PRIVACY POLICY</b></a></li>
+            <li><a href="javascript:void(0)"><b>CUSTOMER CENTER</b></a></li>
         </ul>
         <div id="ft_if" style="line-height:2em;"> 
             <h2><?php echo $config['cf_title']; ?> 정보</h2>
             <b><span style="color:#000; font-size:1.2em;"><?php echo $default['de_admin_company_name']; ?></span></b> <br>
             <span><b>주소:</b> <?php echo $default['de_admin_company_addr']; ?></span><br>
-			<span><b>생크림 방문 미술 교사 교육장:</b> 남양주시 다산순환로420 성산플레이스3 403호</span><br>
             <span><b>사업자 등록번호:</b> <?php echo $default['de_admin_company_saupja_no']; ?></span> |
             <span><b>대표:</b> <?php echo $default['de_admin_company_owner']; ?></span> |
             <span><b>전화:</b> <?php echo $default['de_admin_company_tel']; ?></span>
@@ -129,7 +127,7 @@ function off_element(t_val,e_val){//mouseout 이미지off
 			<span><a href="<?php echo G5_URL?>/bbs/board.php?bo_table=qa" style="color:#333;background:#eee;padding:5px;border-radius:5px;"><b>반품/교환/환불</b> 신청게시판 </a></span><br>-->
 			
             <?php if ($default['de_admin_buga_no']) echo '<span><b>부가통신사업신고번호</b> '.$default['de_admin_buga_no'].'</span>'; ?><br>
-            Copyright &copy; 2019 <?php echo $default['de_admin_company_name']; ?>. All Rights Reserved.
+            Copyright &copy; 2021 <?php echo $default['de_admin_company_name']; ?>. All Rights Reserved.
         </div>
         <div id="ft_cs" style="padding:0; text-align:right;">
 			<a href="<?php echo G5_SHOP_URL; ?>/"><img src="<?php echo G5_URL?>/img/logof.png" class="img-responsive"></a>

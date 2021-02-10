@@ -14,7 +14,7 @@ include_once(G5_LIB_PATH.'/connect.lib.php');
 include_once(G5_LIB_PATH.'/popular.lib.php');
 include_once(G5_LIB_PATH.'/latest.lib.php');
 ?>
-
+<script src="https://kit.fontawesome.com/4a9f41abce.js" crossorigin="anonymous"></script>
 <script type="text/javascript" src="http://wcs.naver.net/wcslog.js"></script>
 <script src="https://code.jquery.com/jquery-2.2.4.min.js" ></script>
 <script src="<?php echo G5_URL ?>/dist/js/bootstrap.js"></script>
@@ -177,23 +177,19 @@ $(window).scroll(function(){/*상단메뉴 스크롤 고정*/
 	
 		<div class="container">
 			<div class="col-lg-12 dropdown">
-					<div class="dropbtn col-lg-2 text-center" style="border-left:1px solid #eee; border-right:1px solid #eee">생크림소개</div>
-					<div class="dropbtn col-lg-2 text-center" style="border-right:1px solid #eee">프로그램</div>
-					<div class="dropbtn col-lg-2 text-center" style="border-right:1px solid #eee">교육문의</div>
-					<div class="dropbtn col-lg-2 text-center" style="border-right:1px solid #eee">교육상담신청</div>
-					<div class="dropbtn col-lg-2 text-center" style="border-right:1px solid #eee">교사지원</div>
-					<div class="dropbtn col-lg-2 text-center" style="border-right:1px solid #eee">갤러리</div>
-					<div class="dropbtn col-lg-2 text-center" style="border-right:1px solid #eee">커뮤니티</div>
-					<div class="dropbtn col-lg-2 text-center" style="border-right:1px solid #eee">수업신청</div>
-					<div class="dropbtn col-lg-2 text-center" style="border-right:1px solid #eee">교재신청</div>
+					<div class="dropbtn col-lg-2 text-center" style="border-left:1px solid #eee; border-right:1px solid #eee">홈</div>
+					<div class="dropbtn col-lg-2 text-center" style="border-right:1px solid #eee">타로상담</div>
+					<div class="dropbtn col-lg-2 text-center" style="border-right:1px solid #eee">사주상담</div>
+					<div class="dropbtn col-lg-2 text-center" style="border-right:1px solid #eee">신점상담</div>
+					<div class="dropbtn col-lg-2 text-center" style="border-right:1px solid #eee">운영안내</div>
+					<div class="dropbtn col-lg-2 text-center" style="border-right:1px solid #eee">공지사항</div>
+					<div class="dropbtn col-lg-2 text-center" style="border-right:1px solid #eee">오시는길</div>
 					<div style="clear:both"></div>
+					<?/*
 					<div class="col-lg-12 dropdown-content">
 						<div class="dropbtn col-lg-2">
 							<a href="<?php echo G5_THEME_SHOP_URL?>/sub1.php" class="text-center">생크림소개</a>
 							<a href="<?php echo G5_THEME_SHOP_URL?>/sub1_2.php" class="text-center">오시는길</a>
-						</div>
-						<div class="dropbtn col-lg-2">
-							<a href="<?php echo G5_THEME_SHOP_URL?>/sub2.php" class="text-center">프로그램</a>
 						</div>
 						<div class="dropbtn col-lg-2">
 							<a href="<?php echo G5_URL?>/bbs/board.php?bo_table=teahcer" class="text-center">교육문의</a>
@@ -223,12 +219,16 @@ $(window).scroll(function(){/*상단메뉴 스크롤 고정*/
 							<a href="<?php echo G5_URL?>/bbs/board.php?bo_table=data" class="text-center">자료실</a>
 						</div>
 						<div class="dropbtn col-lg-2">
-							<a href="<?php echo G5_URL?>/shop/list.php?ca_id=20" class="text-center">수업신청</a>
+							<a href="<?php echo G5_URL?>/shop/list.php?ca_id=20" class="text-center">타로상담</a>
 						</div>
 						<div class="dropbtn col-lg-2">
-							<a href="<?php echo G5_URL?>/shop/list.php?ca_id=10" class="text-center">교재신청</a>
+							<a href="<?php echo G5_URL?>/shop/list.php?ca_id=10" class="text-center">사주상담</a>
+						</div>
+						<div class="dropbtn col-lg-2">
+							<a href="<?php echo G5_URL?>/shop/list.php?ca_id=30" class="text-center">신점상담</a>
 						</div>
 					</div>
+					*/?>
 				</div>
 		</div>
 	

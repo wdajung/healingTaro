@@ -54,9 +54,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=121',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=121',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=121',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=121',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -67,8 +67,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=121&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=121&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=121&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=121&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -79,7 +79,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
   ),
   1 => 
   array (
@@ -133,9 +133,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=120',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=120',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=120',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=120',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -146,8 +146,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=120&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=120&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=120&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=120&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -158,7 +158,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
   ),
   2 => 
   array (
@@ -212,9 +212,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=119',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=119',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=119',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=119',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -225,8 +225,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=119&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=119&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=119&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=119&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -237,7 +237,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
   ),
   3 => 
   array (
@@ -291,9 +291,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=118',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=118',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=118',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=118',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -304,8 +304,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=118&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=118&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=118&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=118&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -316,7 +316,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
   ),
   4 => 
   array (
@@ -370,9 +370,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=117',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=117',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=117',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=117',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -383,8 +383,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=117&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=117&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=117&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=117&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -395,7 +395,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
   ),
   5 => 
   array (
@@ -449,9 +449,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=116',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=116',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=116',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=116',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -462,8 +462,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=116&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=116&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=116&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=116&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -474,7 +474,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
   ),
   6 => 
   array (
@@ -528,9 +528,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=115',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=115',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=115',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=115',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -541,8 +541,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=115&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=115&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=115&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=115&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -553,7 +553,7 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
   ),
   7 => 
   array (
@@ -607,9 +607,9 @@ $list=array (
     'reply' => 0,
     'icon_reply' => '',
     'icon_link' => '',
-    'ca_name_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;sca=',
-    'href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=114',
-    'comment_href' => 'http://www.cream-art.wdw.kr/bbs/board.php?bo_table=gallery&amp;wr_id=114',
+    'ca_name_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;sca=',
+    'href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=114',
+    'comment_href' => 'http://localhost:88/bbs/board.php?bo_table=gallery&amp;wr_id=114',
     'icon_new' => '',
     'icon_hot' => '',
     'icon_secret' => '',
@@ -620,8 +620,8 @@ $list=array (
     ),
     'link_href' => 
     array (
-      1 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=114&amp;no=1',
-      2 => 'http://www.cream-art.wdw.kr/bbs/link.php?bo_table=gallery&amp;wr_id=114&amp;no=2',
+      1 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=114&amp;no=1',
+      2 => 'http://localhost:88/bbs/link.php?bo_table=gallery&amp;wr_id=114&amp;no=2',
     ),
     'link_hit' => 
     array (
@@ -632,6 +632,6 @@ $list=array (
     array (
       'count' => '1',
     ),
-    'icon_file' => '<img src="http://www.cream-art.wdw.kr/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
+    'icon_file' => '<img src="http://localhost:88/theme/basic/mobile/skin/latest/gallery_latest2/img/icon_file.gif" alt="첨부파일">',
   ),
 )?>

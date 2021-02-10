@@ -46,10 +46,16 @@ include_once(G5_MSHOP_PATH.'/_head.php');
             $list->set_type(2);
             $list->set_view('it_id', false);
             $list->set_view('it_name', true);
-            $list->set_view('it_cust_price', false);
-            $list->set_view('it_price', true);
-            $list->set_view('it_icon', false);
-            $list->set_view('sns', false);
+            $list->set_view('it_basic', true);
+            $list->set_view('it_cust_price', true);
+            $list->set_view('it_price', false);
+            $list->set_view('it_icon', true);
+            $list->set_view('it_origin', true);
+            $list->set_view('it_maker', true);
+            $list->set_view('it_model', true);
+            $list->set_view('it_brand', true);
+            $list->set_view('sns', true);
+            $list->set_view('it_star_score', true);
             echo $list->run();
             ?>
         </div>

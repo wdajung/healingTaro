@@ -156,7 +156,7 @@ input[type='radio']:checked:after {
 if (!defined('_GNUBOARD_')) exit; // 개별 페이지 접근 불가
 
 // 우편번호
-$wr_addr    = explode("|",$write[wr_1]);
+$wr_addr    = explode("|",$write['wr_1']);
 $zip1   = $wr_addr[0];
 $zip2   = $wr_addr[1];
 $addr1  = $wr_addr[2];

@@ -734,3 +734,10 @@ a.btn_admin:focus, a.btn_admin:hover {text-decoration:none}
 #sod_bsk_act .naverpay-cart{margin-top:15px;clear:both;position:static}
 
 
+/*20210211*/
+.mainlist {display:none;#hd_ct{top:7px}
+.mainlist .sct_img{width:200px;float:left;margin-right:10px!important}
+.mainlist .sct_li{padding:10px 5px;border-top:1px solid #ddd;box-sizing:border-box;text-align:left}
+.mainlist #sct_wrap.sct{margin:0}
+.mainlist .callNum{color:#ff717b}
+.mainlist .sct_basic{padding-top:5px}
