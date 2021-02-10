@@ -1,0 +1,4 @@
+User-agent: Yeti
+Allow: /
+Disallow: /adm/
+Disallow: /admin/

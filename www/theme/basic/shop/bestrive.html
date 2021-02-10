@@ -1,0 +1,18 @@
+<section>
+<div style="margin-top:5px; margin-bottom:20px;">
+	<div id="wrapper">
+		<a href="<?php echo G5_URL?>/bbs/board.php?bo_table=ep">
+			<img src="<?php echo G5_URL?>/img/breview_title.png">
+		</a>
+	</div>
+		<?php
+		$hp_imgwidth = "200";  // 표시할 이미지의 가로사이즈
+		$hp_imgheight  = "200";  // 표시할 이미지의 세로사이즈
+		$hp_minSlides = "2";  // 슬라이드 최소개수
+		$hp_maxSlides = "5" ;  // 슬라이드 최대개수
+		$hp_slideMargin = "20";  // 슬라이드 이미지 간격
+		echo latest("theme/bx_slide", "ep", 15, 25, 1, "$hp_imgwidth, $hp_imgheight, $hp_minSlides, $hp_maxSlides, $hp_slideMargin");
+		?>
+
+</div>
+</section>
